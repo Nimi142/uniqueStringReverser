@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['C:\\Users\\rappa\\PycharmProjects\\StringHelper'],
+             pathex=['C:\\Users\\rappa\\PycharmProjects\\uniqueStringReverser'],
              binaries=[],
              datas=[],
              hiddenimports=[],

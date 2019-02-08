@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['clickme.py'],
+a = Analysis(['ClickMe.py'],
              pathex=['C:\\Users\\rappa\\PycharmProjects\\HTML_in_tag_non-english_String _reverser'],
              binaries=[],
              datas=[],
@@ -21,7 +21,7 @@ exe = EXE(pyz,
           a.scripts,
           [],
           exclude_binaries=True,
-          name='clickme',
+          name='ClickMe',
           debug=False,
           bootloader_ignore_signals=False,
           strip=False,
@@ -33,4 +33,4 @@ coll = COLLECT(exe,
                a.datas,
                strip=False,
                upx=True,
-               name='clickme')
+               name='ClickMe')

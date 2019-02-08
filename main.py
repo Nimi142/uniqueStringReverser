@@ -1,4 +1,4 @@
-file_name = "Test.txt"# input("Enter file name: (Full path) \n")
+file_name = input("Enter the file name and directory: ")
 file = open(file_name,"r")
 data = file.readlines()
 file.close()
