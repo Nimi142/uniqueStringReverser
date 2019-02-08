@@ -1,9 +1,9 @@
-# HTML_in_tag_non-english_String-_reverser
+# Unique String Reverser
 This string reverser reverses every string in tags (i.e <a>Reverts this</a>) but does reverse Strings in which everything is ascii (not extended)(The example is incorrect but i needed to write this in english). This was used because the reverser does NOT reverse english! It is meant for me to reverse rtl languages so they will be read correctly in ltr format in xml files.
 
 
 opening the file:
-1. Unpack the zip
+1. In the Github repository, the exe file is inside dist, download all of it. (the "main" folder)
 2. open the "main" folder
 3. click on "main.exe"
 4. Enter the file's path with quotation marks(i.e "d:/folder/file")
