@@ -1,5 +1,6 @@
 file_name = input("Enter the file name and directory: ")
 file = open(file_name,"r")
+print(type(file_name))
 data = file.readlines()
 file.close()
 start = 0

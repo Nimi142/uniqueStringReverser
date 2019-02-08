@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HTML_in_tag_non-english_String _reverser.iml" filepath="$PROJECT_DIR$/.idea/HTML_in_tag_non-english_String _reverser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/uniqueStringReverser.iml" filepath="$PROJECT_DIR$/.idea/uniqueStringReverser.iml" />
     </modules>
   </component>
 </project>
