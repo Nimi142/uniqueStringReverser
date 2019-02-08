@@ -1,4 +1,4 @@
-# HTML_in_tag_non-english_String-_reverser
+# Unique String Reverser
 This string reverser reverses every string in tags (i.e <a>Reverts this</a>) but does reverse Strings in which everything is ascii (not extended)(The example is incorrect but i needed to write this in english). This was used because the reverser does NOT reverse english! It is meant for me to reverse rtl languages so they will be read correctly in ltr format in xml files.
 
 
