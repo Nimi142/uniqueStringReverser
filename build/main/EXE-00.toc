@@ -34,7 +34,7 @@
  [],
  False,
  False,
- 1549633788,
+ 1549888513,
  [('run.exe',
    'c:\\users\\rappa\\python36\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-32bit\\run.exe',
    'EXECUTABLE')])
